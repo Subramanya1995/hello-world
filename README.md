@@ -1,3 +1,2 @@
-# hello-world
-I'm Subramanya and I want to be an expert in Machine Learning and AI. 
+# hello-world 
 wth is going on!
